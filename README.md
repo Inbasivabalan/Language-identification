@@ -7,14 +7,6 @@ Both datasets are located in the datasets folder. The train dataset is stored in
 
 Each row of the dataset contains a text sample and its corresponding language. The languages included in the dataset are English, Spanish, French, Tamil and etc..,
 
-Dependencies
-This project requires the following dependencies:
-Python 3.7 or higher
-
-pandas
-scikit-learn
-numpy
-
 To install the required dependencies, run the following command:
 
 pip install -r requirements.txt
